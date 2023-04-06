@@ -10,6 +10,7 @@ const root = createRoot(container);
 root.render(
   <React.StrictMode>
     <h1>hello from our crypto project</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Commodi, vitae?</p>
   </React.StrictMode>
 );
 
